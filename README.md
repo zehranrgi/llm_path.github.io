@@ -39,4 +39,12 @@ model (e.g. number of parameters)
    - Normalization:
  
  - ## Introduction to LLM: 
+     -  BERT, T5, GPT2
+     -  GPT3 : Just like GPT-2 but 100x larger. Zero shot, one-shot, few-shot.
+     -  LLaMA : Training dataset: Wikipedia, Github, Books, ArXiv etc.
+     -  https://fullstackdeeplearning.com/
+- ## Reading Series
+     -  https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md
+     -  let's break down what "Language Models" mean in this context. Language models are essentially algorithms or systems that are trained to understand and generate human-like text. They serve as a representation of how language works, learning from diverse datasets to predict what words or sequences of words are likely to come next in a given context. The "Large" aspect amplifies their capabilities. Traditional language models, especially those from the past, were smaller in scale and couldn't capture the intricacies of language as effectively. With advancements in technology and the availability of massive computing power, we've been able to build much larger models. These Large Language Models, like ChatGPT, have billions of parameters, which are essentially the variables the model uses to make sense of language.
+ 
      -  
