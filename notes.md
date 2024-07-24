@@ -8,3 +8,6 @@ RAG
 https://community.aws/content/2gvh6fQM4mJQduLye3mHlCNvPxX/vector-embeddings-and-rag-demystified
 
 https://partyrock.aws/
+
+
+brandon caroll
