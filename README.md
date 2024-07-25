@@ -8,12 +8,15 @@ DAY-1
 
 DAY-2 
 
-- Deeplearningai Prompt Engineering course notebooks
+- Deeplearningai Prompt Engineering course Notebooks
 
 DAY-3
 
-- Deeplearningai What is RAG notebook
+- Deeplearningai What is RAG notebooks
 
+DAY-4 
+
+- Deeplearningai Finetuning Large Language Models Notebooks
 
 Optional Source:
 [Ilya's Folder](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
