@@ -1,7 +1,9 @@
 
 ## PEFT
 
-- Unlike full fine-tuning that modifies all parameters, PEFT fine-tunes only a small subset of additional parameters while keeping the majority of pretrained model weights frozen. 
+- Unlike full fine-tuning that modifies all parameters, PEFT fine-tunes only a small subset of additional parameters while keeping the majority of pretrained model weights frozen.
+
+- [Example code by HuggingFace](https://huggingface.co/blog/peft)
 
 ## Fine-tuning: 
 - https://www.labellerr.com/blog/comprehensive-guide-for-fine-tuning-of-llms/
