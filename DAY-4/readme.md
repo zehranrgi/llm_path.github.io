@@ -1,3 +1,10 @@
+
+PEFT
+
+- Unlike full fine-tuning that modifies all parameters, PEFT fine-tunes only a small subset of additional parameters while keeping the majority of pretrained model weights frozen. 
+
+
+
 ![image](https://github.com/user-attachments/assets/0cc68414-ab73-4c4e-8f60-aabd8f5e5976)
 
 
