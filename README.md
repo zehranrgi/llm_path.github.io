@@ -27,4 +27,6 @@ Optional Source:
 
 2. [Huggin Face AI cookbook](https://huggingface.co/learn/cookbook/en/index)
 
+3. [LLM University](https://cohere.com/llmu?ref=txt.cohere.com)
+
 ![image](https://github.com/user-attachments/assets/9b3e3efd-8c85-4830-8f7d-97bc32820676)
