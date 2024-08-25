@@ -1,8 +1,8 @@
 
 Here you can find Deeplearning.ai notebooks about the LLM, RAG, AGENTS which are ready to see outputs!
 
-Also, I  put the website link in my notes so that these links can be seen in a short way. 
-
+Also, I  put the website link in my notes so that these links can be seen shortly. 
+Click the below link. 
 [LLM 5 day Deeplearningai](https://zehras-notes.gitbook.io/largelanguagemodels.gitbook.com/llm-5-day-deeplearningai)
 
 
